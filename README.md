@@ -1,8 +1,11 @@
 # **Clean Room Monitoring System (CRM)**
 
-###### First, to properly view .md files, they need to be compiled. In git this is done automatically, but in VS Code this is done by right clicking on the file and selecting Open Preview.
+This is the repo for the environmental monitoring of the SD Mines low-radon cleanroom. The following document will provide a summary of the system, instructions on how to use the code, and a brief explanation the main runable code files.
 
-This is the repo for the environmental monitoring of the SD Mines low-radon cleanroom. The following document will provide instructions on how to use the code as well as a brief explanation the main runable code files.
+## **Introduction**
+The Clean Room Monitoring System was created the Fall 2021 semester by me (Noah Everett), with guidence from Joseph Street (PhD student), for Dr. Richard Schnee's cleanroom in the Dakota Building of SD Mines. The system consists of a raspberry pi with four sensors (listed below) which record temperature, humidity, pressure, dust, carbon dioxide, and volitile organic compound levels. The purpose of the system was to allow cleanroom users to monitor how their actions affect the clean room environment in real time, along with recording data for future analysis.
+
+Future use of the system may expand to include several other systems in other areas of the lab and/or other cleanrooms in the lab. The steps in `SETUP.md` can be followed to easly recreate the system as many times as desired. 
 
 ## **Running the Code**
 
