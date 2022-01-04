@@ -1,4 +1,4 @@
-# **Clean Room Monitoring System (CRM)**
+# **Cleanroom Monitoring System Setup**
 
 ## **Installing required packages**
 
