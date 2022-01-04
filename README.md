@@ -1,9 +1,9 @@
-# **Clean Room Monitoring System (CRM)**
+# **Environmental Monitoring System**
 
-This is the repository for the environmental monitoring of the SD Mines low-radon cleanroom in the Dakota Building of SD Mines. The following document will provide a summary of the system, instructions on how to use the code, and a brief explanation the main runable code files.
+This is the repository for the Environmental Monitoring System built for the the low radon cleanroom in the Dakota Building of SD Mines. The following document will provide a summary of the system, instructions on how to use the code, and a brief explanation the main runable code files.
 
 ## **Introduction**
-The Clean Room Monitoring System was created the Fall 2021 semester by me (Noah Everett), with guidance from Joseph Street (PhD student), for Dr. Richard Schnee's low-radon cleanroom in the Dakota Building of SD Mines. The system consists of a Raspberry Pi with four sensors (listed below) that record temperature, humidity, pressure, dust, carbon dioxide, and volitile organic compound levels. The purpose of the system was to allow cleanroom users to monitor how their actions affect the clean room environment in real time, along with recording data for future analysis.
+The Environmental Monitoring System was created the Fall 2021 semester by me (Noah Everett), with guidance from Joseph Street (PhD student), for Dr. Richard Schnee's low radon cleanroom in the Dakota Building of SD Mines. The system consists of a Raspberry Pi with four sensors (listed below) that record temperature, humidity, pressure, dust, carbon dioxide, and volitile organic compound levels. The purpose of the system was to allow cleanroom users to monitor how their actions affect the cleanroom environment in real time, along with recording data for future analysis.
 
 Future use of the system may expand to include several other systems in other areas of the lab and/or other cleanrooms in the lab. The steps in `SETUP.md` can be followed to easily recreate the system as many times as desired. 
 
