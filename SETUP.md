@@ -12,9 +12,9 @@ After the pi has rebooted, install python3:
 
     sudo apt install python3
 
-Next install the librarys:
+Next install the libraries:
 
-    sudo pip3 intall --upgrade setuptools
+    sudo pip3 install --upgrade setuptools
     pip3 install adafruit-circuitpython-dht
     pip3 install adafruit-circuitpython-ms8607
     pip3 install adafruit-circuitpython-pm25
@@ -22,7 +22,7 @@ Next install the librarys:
 
 ## **Activating I2C ports**
 
-The following information was taked from: https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c
+The following information was taken from: https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-i2c
 
 To use sensors that require I2C ports (MS8607, PM25, and SGP30), you must configure the I2C. In the terminal:
 
@@ -40,8 +40,8 @@ Next, reboot the pi:
     
     sudo reboot
     
-After the pi has rebooted, make sure the connected I2C divices are recognized:
+After the pi has rebooted, make sure the connected I2C devices are recognized:
 
     sudo i2cdetect -y 1
 
-You should see one or more I2C addresses in use depending on the amount of connected devices.
+You should see one or more I2C addresses in use depending on the number of connected devices.
