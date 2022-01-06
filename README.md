@@ -37,4 +37,3 @@ Information on each of the four sensors in this system is listed below. The unit
 - PMSA003I - Dust [particles/0.1L → particles/L] sensor. [Product Page](https://www.adafruit.com/product/4632) | [Tutorial](https://learn.adafruit.com/pmsa003i)
 
 - SGP30 - Total volatile organic compounds [ppb] and equivalent calculated carbon-dioxide sensor [ppm → ppb]. [Product Page](https://www.adafruit.com/product/3709) | [Tutorial](https://learn.adafruit.com/adafruit-sgp30-gas-tvoc-eco2-mox-sensor)
-![image](https://user-images.githubusercontent.com/53155486/148427662-cd4fa4fe-a292-42b6-9dd5-28e2fb4591f3.png)
