@@ -36,11 +36,11 @@ Go to Interfacing Options (On older versions, look under Advanced). Then go to I
 
 > Would you like the I2C kernel module to be loaded by default? Yes
                 
-Next, reboot the pi:
+Next, reboot the Pi:
     
     sudo reboot
     
-After the pi has rebooted, make sure the connected I2C devices are recognized:
+After the Pi has rebooted, make sure the connected I2C devices are recognized:
 
     sudo i2cdetect -y 1
 
