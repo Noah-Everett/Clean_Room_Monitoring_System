@@ -8,7 +8,7 @@ First, run the standard updates:
     sudo apt full-upgrade
     sudo reboot
 
-After the pi has rebooted, install python3:
+After the Pi has rebooted, install Python 3:
 
     sudo apt install python3
 
