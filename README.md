@@ -7,6 +7,9 @@ The Cleanroom Monitoring System was created the Fall 2021 semester by me (Noah E
 
 Future use of the system may expand to include several other systems in other areas of the lab and/or other cleanrooms in the lab. The steps in `SETUP.md` can be followed to easily recreate the system as many times as desired. 
 
+## **Sample Plot**
+![Run007](https://github.com/Noah-Everett/Cleanroom_Monitoring_System/blob/main/Analysis/Runs/Run0007/Run0007%20Plot%20%5B2%5D.png)
+
 ## **Running the Code**
 
 First, follow the steps in `SETUP.md` to install all the required packages to the Raspberry Pi. 
