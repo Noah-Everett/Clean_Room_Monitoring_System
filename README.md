@@ -1,6 +1,6 @@
 # **Cleanroom Monitoring System**
 
-![SysteDiagram](https://github.com/Noah-Everett/Cleanroom_Monitoring_System/blob/main/CRM-Diagram.pdf)
+![SysteDiagram](https://github.com/Noah-Everett/Cleanroom-Monitoring-System/blob/main/CRM-Diagram.pdf)
 
 This is the repository for the Cleanroom Monitoring System built to monitor the environment of the low radon cleanroom in the Dakota Building of South Dakota Mines. The following document will provide a summary of the system, instructions on how to use the code, and a brief explanation the main runnable code files.
 
